@@ -1,4 +1,4 @@
-![About Me](https://github.com/sameersyd/templates/blob/master/profcard.png)
+![About Me](https://github.com/sameersyd/templates/blob/master/prof_card.png)
 
 Hi I'm Sameer! I'm an iOS Engineer who is passionate about mobile development and open source. I also develop progressive web apps, exploring it.
 
