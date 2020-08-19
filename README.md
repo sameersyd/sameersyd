@@ -1,6 +1,4 @@
-![About Me](https://github.com/sameersyd/templates/blob/master/frame_ead.png)
-
-I'm an iOS Engineer  who is passionate about mobile development and open source. I've also developed Android apps 📱 and exploring Web & Cloud ☁️ Technology.
+Hi, I'm Sameer 👋🏻. I'm an iOS Engineer  who is passionate about mobile development and open source. I've also developed Android apps 📱 and exploring Web & Cloud ☁️ Technology.
 
 - 🧑🏻‍💻 I’m currently working on iOS Apps
 - 🔭 Exploring ReactJS
