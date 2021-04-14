@@ -6,8 +6,7 @@ Hi, I'm Sameer 👋🏻. I'm an iOS Engineer  who is passionate about mobile 
 -  ⚡ Languages: Swift, Java, Python;
 - 💭 Let's get to know each other
 
-<a title="Linkedin Profile" href="https://www.linkedin.com/in/sameer-nawaz-linked/"><img alt="Linkedin Profile" src="https://github.com/sameersyd/templates/blob/master/linkedin_update1.png" width="130"/></a>
-<a title="Twitter Profile" href="https://twitter.com/syd_sameer"><img alt="Twitter Profile" src="https://github.com/sameersyd/templates/blob/master/twitter_brand.png" width="130"/></a>
-<a title="Instagram Profile" href="https://www.instagram.com/sameer_syd"><img alt="Instagram Profile" src="https://github.com/sameersyd/templates/blob/master/instagram_brand.png" width="130"/></a>
-<a title="Gmail" href="mailto:sameer.nwaz@gmail.com"><img alt="Mail" src="https://github.com/sameersyd/templates/blob/master/gmail_update1.png" width="130"/></a>
-
+<a title="Linkedin Profile" href="https://www.linkedin.com/in/sameer-nawaz-linked/"><img alt="Linkedin Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/linkedin.png" width="130"/></a>
+<a title="Twitter Profile" href="https://twitter.com/syd_sameer"><img alt="Twitter Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/twitter.png" width="130"/></a>
+<a title="Instagram Profile" href="https://www.instagram.com/sameer_syd"><img alt="Instagram Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/instagram.png" width="130"/></a>
+<a title="Gmail" href="mailto:sameer.nwaz@gmail.com"><img alt="Mail" src="https://github.com/sameersyd/sameersyd/blob/master/art/gmail.png" width="130"/></a>
