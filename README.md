@@ -3,8 +3,8 @@ Hi, I'm Sameer 👋🏻. I'm an iOS Engineer  who is passionate about mobile 
 - 🧑🏻‍💻 I’m currently working on iOS Apps
 - 💬 Ask me about: tech;
 - 📝 Open Source Contributor
--  ⚡ Languages: Swift, Java, Python;
-- 💭 Let's get to know each other
+-  ⚡ Languages: Swift, Python, Java;
+- 🔗 Let's Connect 👇🏻
 
 <a title="Linkedin Profile" href="https://www.linkedin.com/in/sameer-nawaz-linked/"><img alt="LinkedIn Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/linkedin.png" width="130"/></a>
 <a title="Twitter Profile" href="https://twitter.com/syd_sameer"><img alt="Twitter Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/twitter.png" width="130"/></a>
