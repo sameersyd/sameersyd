@@ -10,4 +10,3 @@ Hi, I'm Sameer 👋🏻. I'm an iOS Engineer  who is passionate about mobile 
 <a title="Twitter Profile" href="https://twitter.com/syd_sameer"><img alt="Twitter Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/twitter.png" width="130"/></a>
 <a title="Medium Profile" href="https://sameer-syd.medium.com"><img alt="Medium Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/medium.png" width="130" height="45"/></a>
 <a title="Dribbble Profile" href="https://dribbble.com/sameer_syd"><img alt="Dribbble Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/dribbble.png" width="130"/></a>
-<a title="Instagram Profile" href="https://www.instagram.com/sameer_syd"><img alt="Instagram Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/instagram.png" width="130"/></a>
